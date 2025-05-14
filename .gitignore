@@ -48,3 +48,5 @@ modules/jdbc-pool/bin
 modules/jdbc-pool/includes
 modules/openssl-foreign/target
 webapps/docs/jdbc-pool.xml
+**/target/*
+***/modules/*
